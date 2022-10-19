@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "67959899619",
+    "project_id": "test-webview-5649a",
+    "storage_bucket": "test-webview-5649a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67959899619:android:006ebd07f8cb2ff1664cd6",
+        "android_client_info": {
+          "package_name": "com.example.janiopgwebview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67959899619-eu3dj34mbl6a42vhned05s757gcbemm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmIZIn_hf0zFWWjGH0UzQeyWNZw8JLLPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67959899619-eu3dj34mbl6a42vhned05s757gcbemm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
